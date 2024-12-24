@@ -1,7 +1,5 @@
 # Hi there, I'm Adrian 👋
 
-# Hi there, I'm Adrian Lam 👋
-
 ![GitHub followers](https://img.shields.io/github/followers/adrianlamdev?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/adrianlamdev?style=social)
 
