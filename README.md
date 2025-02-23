@@ -11,7 +11,3 @@ Want to chat? Just shoot me an email, or connect with me on other platforms and 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://ca.linkedin.com/in/adrianlamdev)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=email)](mailto:adrian@lams.cc)
-
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlamdev&layout=compact&theme=radical)
