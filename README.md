@@ -1,6 +1,9 @@
 # Hi there, I'm Adrian 👋
 
-## About Me
-I'm a Mathematics student at the University of British Columbia, set to graduate in 2027. I have a strong background in software development, with experience in full-stack development, machine learning, and data analysis.
+I'm currently @ Cloudflare as a Software Engineer Intern.
 
-To learn more, check out my personal site [adriandlam.com](https://adriandlam.sh)
+Previously, I was @ Vercel working as one of the core maintainers of the [Workflow SDK](https://vercel.com/workflows).
+
+I'm also a math student @ UBC, graduating in 2027
+
+Learn more about me [here](https://adrianlam.sh)
