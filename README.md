@@ -1,9 +1,11 @@
-# Hi there, I'm Adrian 👋
+# Adrian Lam
 
-I'm currently @ Cloudflare as a Software Engineer Intern.
+Software engineer and math student at UBC.
 
-Previously, I was @ Vercel working as one of the core maintainers of the [Workflow SDK](https://vercel.com/workflows).
+Most recently, I was a software engineer on the AI Gateway team at [Cloudflare](https://cloudflare.com) in Austin, TX.
 
-I'm also a math student @ UBC, graduating in 2027
+Previously, I helped launch the [Workflow SDK](https://workflow-sdk.dev) at [Vercel](https://vercel.com), then built its SvelteKit, Express and Astro integrations and [wrote about how they work](https://vercel.com/blog/inside-workflow-devkit-how-framework-integrations-work).
 
-Learn more about me [here](https://adrianlam.sh)
+When I'm not coding, I'm outdoors or taking [photos](https://adrianlam.sh/photos).
+
+More at [adrianlam.sh](https://adrianlam.sh): [writing](https://adrianlam.sh/writing) and [projects](https://adrianlam.sh/projects).
